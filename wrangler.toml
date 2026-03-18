@@ -1,0 +1,8 @@
+name = "charter-boats-mcp"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+account_id = "366569c0f0a56fc6a631f837ccbde987"
+
+routes = [
+  { pattern = "charter.boats/mcp", zone_id = "9b6b73fdc854aac711c09c13b523f85a" }
+]
