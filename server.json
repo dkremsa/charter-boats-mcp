@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "boats.charter/charter-boats",
+  "title": "Charter Boats",
+  "description": "Search 14,000+ charter boats worldwide: boats, marinas, anchorages, points of interest, sailing routes and itineraries, with live prices and booking links.",
+  "version": "1.0.0",
+  "websiteUrl": "https://charter.boats/mcp",
+  "repository": {
+    "url": "https://github.com/dkremsa/charter-boats-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://charter.boats/mcp"
+    }
+  ]
+}
