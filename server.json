@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "boats.charter/charter-boats",
   "title": "Charter Boats",
-  "description": "Search 14,000+ charter boats worldwide: boats, marinas, anchorages, points of interest, sailing routes and itineraries, with live prices and booking links.",
+  "description": "Search 14,000+ charter boats with live prices, plus marinas, anchorages, routes and itineraries.",
   "version": "1.0.0",
   "websiteUrl": "https://charter.boats/mcp",
   "repository": {
